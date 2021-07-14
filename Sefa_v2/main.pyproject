@@ -1,0 +1,3 @@
+{
+    "files": ["interface/design/Schedule.ui","interface/design/Profile.ui","interface/design/Review.ui","interface/design/Register.ui","interface/design/ClinicalRecord.ui","interface/design/Patient.ui","interface/design/AccountRecord.ui","interface/design/Bill.ui","interface/design/LabRecord.ui","interface/design/FindPatient.ui","interface/design/Auth.ui","interface/design/PharmacyRecord.ui","main.py","interface/design/Start.ui","interface/design/ApptSlip.ui","interface/design/LabReport.ui","interface/design/PrescriptionForm.ui"]
+}
