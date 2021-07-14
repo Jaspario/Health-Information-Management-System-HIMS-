@@ -1,0 +1,3 @@
+{
+    "files": ["resources/Reception.ui","resources/Patient.ui","resources/Auth.ui","main.py","resources/aptSlip.ui","resources/Billing.ui","resources/PRecord.ui","resources/PSearch.ui","resources/PForm.ui","resources/wndWelcome.ui","resources/PReview.ui","Form.py","resources/Start.ui","resources/patientRecord.ui","resources/dSchedule.ui","resources/Record.ui","resources/ApptDialog.ui"]
+}
